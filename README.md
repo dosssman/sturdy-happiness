@@ -22,4 +22,5 @@ Lorem ipsun
 
 #  Participants
 
-Nadine
+- Rousslan Dossa
+- Nadine
