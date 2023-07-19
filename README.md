@@ -19,3 +19,6 @@ The tests should be run using `pytest`, which will be introduced during the work
 ## Testing changes to the README file
 
 Lorem ipsun 
+
+#  Participants
+
